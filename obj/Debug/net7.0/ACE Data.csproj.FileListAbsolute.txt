@@ -1,0 +1,14 @@
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.AssemblyInfo.cs
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\bin\Debug\net7.0\ACE Data.exe
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\bin\Debug\net7.0\ACE Data.deps.json
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\bin\Debug\net7.0\ACE Data.runtimeconfig.json
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\bin\Debug\net7.0\ACE Data.dll
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\bin\Debug\net7.0\ACE Data.pdb
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.dll
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\refint\ACE Data.dll
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.pdb
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ACE Data.genruntimeconfig.cache
+D:\Microsoft VS Code\Projects\Personal Project\VSA ACE Pairing\ACE Data\obj\Debug\net7.0\ref\ACE Data.dll
